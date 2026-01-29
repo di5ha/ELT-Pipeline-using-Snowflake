@@ -1,0 +1,4 @@
+project:
+    name: dbt-dag
+postgres:
+    port: 5434
