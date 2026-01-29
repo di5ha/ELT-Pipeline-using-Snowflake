@@ -1,4 +1,4 @@
-# ELT Pipeline in 1 Hour (dbt, Snowflake, Airflow)
+# ELT Pipeline (dbt, Snowflake, Airflow)
 
 This project demonstrates a robust ELT (Extract, Load, Transform) pipeline orchestrating dbt Core models using Apache Airflow and Astronomer Cosmos, with Snowflake as the data warehouse.
 
