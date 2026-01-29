@@ -86,6 +86,4 @@ This project demonstrates a robust ELT (Extract, Load, Transform) pipeline orche
 -   **Snowflake 404:** Verify your `conn_host` and `account` in `airflow_settings.yaml` match your specific Snowflake region URL exactly.
 -   **Path Errors:** The DAG uses dynamic path resolution (`pathlib`), so it should work regardless of where the project is mounted.
 
-## License
 
-This project is for educational purposes as part of the "ELT Pipeline in 1 Hour" tutorial.
